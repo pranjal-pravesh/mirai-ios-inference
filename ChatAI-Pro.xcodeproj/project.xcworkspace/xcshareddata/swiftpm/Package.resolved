@@ -1,0 +1,15 @@
+{
+  "originHash" : "cfc1c05f498124efd3378b7c9cb493d51e22a4794b7e2d881c80bca438169fa8",
+  "pins" : [
+    {
+      "identity" : "uzu-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/trymirai/uzu-swift",
+      "state" : {
+        "revision" : "a44b1a6db1a9f23a09b3f7f1b2d09bfc4cf056db",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
